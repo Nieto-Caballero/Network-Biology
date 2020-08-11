@@ -1,11 +1,6 @@
-## Welcome to GitHub Pages
+## What is Network Biology?
 
-You can use the [editor on GitHub](https://github.com/kevinLCG/Network_Biology_Challenge_CdeCMX/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
+[![Biological Networks]({https://cytoscape.org/cytoscape-tutorials/presentations/modules/intro-network-biology/network-example.jpg})]({https://youtu.be/BtwyrLEPzaw} "Biological Networks")
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
